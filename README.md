@@ -1,2 +1,2 @@
 # slippy
-slideshow presentations with pygame!
+slideshow presentations in Python!
